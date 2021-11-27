@@ -604,7 +604,7 @@
     },
     {
       "name": "Classes",
-      "scope": "entity.name.type.namespace",
+		  "scope": "support.class, entity.name.type.class, entity.name.class",
       "settings": {
         "foreground": "#b9a697"
       }
